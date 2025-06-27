@@ -1,3 +1,2 @@
 # Resume
 welecome
-print (hello);
